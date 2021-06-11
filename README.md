@@ -1,6 +1,15 @@
 ### Hi there 👋
 
 
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/ufuk-kazdal-499478b0/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/lazdak11/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
+
+
+
 <h2 align='left''> Languages and Tools: </h2>
 <p align='left'>
 
