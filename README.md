@@ -1,6 +1,8 @@
-### Hi there 👋
 
-
+<h1 align="left">Hi, I'm UFuk  👋 </h1>
+<img align="center" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="220" />
+<h4 align="left"> I'm a Full-stack Developer  </h4>
+<h4 align="left">Welcome to my Github Profile!🙋🏽‍♀️ </h4>
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ufuk-kazdal-499478b0/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
