@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi, I'm UFuk  👋 </h1>
-<img align="center" alt="GIF" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" width="400" height="220" />
+<img align="center" alt="GIF" src="https://www.techieapps.com/wp-content/uploads/2018/12/hire-full-stack-developers.gif" width="550" height="370" />
 <h4 align="left"> I'm a Full-stack Developer  </h4>
 <h4 align="left">Welcome to my Github Profile!🙋🏽‍♀️ </h4>
 <p align="left">
