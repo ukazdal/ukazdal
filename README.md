@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi, I'm UFuk  👋 </h1>
 <img align="center" alt="GIF" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="400" height="250" />
-<h4 align="left"> I'm a Full-stack Developer  </h4>
+<h4 align="left"> I'm a ReactJS Developer  </h4>
 <h4 align="left">Welcome to my Github Profile! </h4>
 <p align="left">
 
